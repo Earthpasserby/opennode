@@ -3,8 +3,8 @@ import RevealGroup from './RevealGroup.jsx';
 
 const projects = [
   { name: 'Goodside', type: 'Identity concept · Everyday goods', label: 'IDENTITY CONCEPT', image: 'https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=1400&q=85', alt: 'Minimal skincare products arranged as a brand identity concept' },
-  { name: 'Sunday Supply', type: 'Digital storefront · Lifestyle', label: 'WEB CONCEPT', image: 'https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?auto=format&fit=crop&w=1000&q=85', alt: 'Curated lifestyle products for a digital storefront concept' },
-  { name: 'Form / Field', type: 'Visual language · Creative culture', label: 'ART DIRECTION', image: 'https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=85', alt: 'Fashion editorial portrait for a creative art direction concept' },
+  { name: 'Sunday Supply', type: 'Web development · Lifestyle brand', label: 'WEB DEVELOPMENT', image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1000&q=85', alt: 'Laptop displaying a polished web dashboard for a lifestyle brand' },
+  { name: 'Form / Field', type: 'Illustration · Creative culture', label: 'ART DIRECTION', image: 'https://images.unsplash.com/photo-1549490349-8643362247b5?auto=format&fit=crop&w=1000&q=85', alt: 'Colorful abstract artwork shaping an illustration-led art direction concept' },
 ];
 
 function WorkSection() {
